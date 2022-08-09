@@ -1,13 +1,495 @@
-<mxfile host="app.diagrams.net" modified="2022-08-02T08:00:29.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="iX3JfHv3KD-2X554hjFX" version="20.2.2" type="github">
-  <diagram id="eywZ4jLU-mxckHhNCkN6" name="第 1 页">
-    <mxGraphModel dx="1422" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="oyFB0NAMOJXj2v34KVkd-2" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="370" y="330" width="80" height="80" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="65bd71144e">
+    <diagram id="F-EgB0j8yjzoPypYPATl" name="源码目录">
+        <mxGraphModel dx="1074" dy="1824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-0"/>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-1" parent="jdSEp-X5Y3zSZk4DHP-X-0"/>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-16" value="" style="edgeStyle=none;html=1;fontColor=#CC00CC;strokeColor=#FF33FF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" source="jdSEp-X5Y3zSZk4DHP-X-2" target="jdSEp-X5Y3zSZk4DHP-X-15" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-25" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#CC00CC;strokeColor=#FF33FF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" source="jdSEp-X5Y3zSZk4DHP-X-2" target="jdSEp-X5Y3zSZk4DHP-X-24" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="-MajMRrzZjIggtml_3Y8-1" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="jdSEp-X5Y3zSZk4DHP-X-1" source="jdSEp-X5Y3zSZk4DHP-X-2" target="-MajMRrzZjIggtml_3Y8-0" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-2" value="cocos&lt;br&gt;功能模块" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="160" y="450" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-3" value="docs&lt;br&gt;文档" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="160" y="640" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-4" value="editor&lt;br&gt;编辑器相关" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="160" y="800" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-5" value="exports&lt;br&gt;模块导出" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="160" y="970" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-6" value="extensions&lt;br&gt;扩展功能" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="160" y="1160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-7" value="external&lt;br&gt;外部/第三方库" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="160" y="1390" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-8" value="native&lt;br&gt;原生相关文件夹" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="160" y="1570" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-9" value="pal&lt;br&gt;定制功能" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="160" y="1740" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-10" value="platforms&lt;br&gt;平台相关" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="160" y="1930" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-11" value="playground&lt;br&gt;编辑器显示相关" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="160" y="2130" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-12" value="script&lt;br&gt;编译相关脚本" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="160" y="2350" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-13" value="templates&lt;br&gt;编译模板" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="160" y="2550" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-14" value="test&lt;br&gt;测试" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="160" y="2780" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-18" value="" style="edgeStyle=none;html=1;fontColor=#CC00CC;strokeColor=#FF33FF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" source="jdSEp-X5Y3zSZk4DHP-X-15" target="jdSEp-X5Y3zSZk4DHP-X-17" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-15" value="2d&lt;br&gt;2d相关功能" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="360" y="330" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-20" value="" style="edgeStyle=none;html=1;fontColor=#CC00CC;strokeColor=#FF33FF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" source="jdSEp-X5Y3zSZk4DHP-X-17" target="jdSEp-X5Y3zSZk4DHP-X-19" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-22" value="" style="edgeStyle=none;html=1;fontColor=#CC00CC;strokeColor=#FF33FF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" source="jdSEp-X5Y3zSZk4DHP-X-17" target="jdSEp-X5Y3zSZk4DHP-X-21" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-17" value="assets&lt;br&gt;2d资源文件夹" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="560" y="330" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-19" value="ttf-font.ts&lt;br&gt;TTF字体资源类" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="760" y="410" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-21" value="bitmap-font.ts&lt;br&gt;bitmap字体资源类" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="760" y="330" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-23" value="font.ts&lt;br&gt;字体基类" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="760" y="260" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-27" value="" style="edgeStyle=none;html=1;fontColor=#CC00CC;strokeColor=#FF33FF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" source="jdSEp-X5Y3zSZk4DHP-X-24" target="jdSEp-X5Y3zSZk4DHP-X-26" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-24" value="core&lt;br&gt;cocos功能核心模块" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="360" y="50" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-31" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#CC00CC;strokeColor=#FF33FF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" source="jdSEp-X5Y3zSZk4DHP-X-26" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="780" y="-100" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-26" value="assets&lt;br&gt;核心资源模块" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="560" y="50" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-28" value="index.ts&lt;br&gt;当前模块导入导出&lt;br&gt;&lt;br&gt;index.jsb.ts&lt;br&gt;assest模块的jsb绑定相关导入导出&lt;br&gt;目前看，这两个文件内容是一样的" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="780" y="-210" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="jdSEp-X5Y3zSZk4DHP-X-32" value="json-asset.ts&lt;br&gt;json资源操作类&lt;br&gt;如果想要读取一个文本内容，需要使用文件名.txt，而不能使用.json" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="960" y="-40" width="130" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="-MajMRrzZjIggtml_3Y8-3" value="" style="edgeStyle=none;html=1;" parent="jdSEp-X5Y3zSZk4DHP-X-1" source="-MajMRrzZjIggtml_3Y8-0" target="-MajMRrzZjIggtml_3Y8-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="-MajMRrzZjIggtml_3Y8-0" value="data&lt;br&gt;一些引擎使用的数据声明&lt;br&gt;例如：注解" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="360" y="540" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="-MajMRrzZjIggtml_3Y8-2" value="data&lt;br&gt;一些引擎使用的数据声明&lt;br&gt;例如：注解" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="560" y="540" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="edgeStyle=none;html=1;" parent="jdSEp-X5Y3zSZk4DHP-X-1" source="0" target="1" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="0" value="components&lt;br&gt;组件相关文件夹" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="560" y="150" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="1" value="system.ts&lt;br&gt;注册组件事件&lt;br&gt;init&lt;br&gt;update" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="jdSEp-X5Y3zSZk4DHP-X-1" vertex="1">
+                    <mxGeometry x="770" y="145" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="eywZ4jLU-mxckHhNCkN6" name="spine注册native流程">
+        <mxGraphModel dx="2728" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="exports/spine.ts&lt;br&gt;里面导入了前面的命名空间spine，然后导出前面命名空间spine的所有成为，命名空间sp&lt;br&gt;所以要使用spine里面的东西，需要使用sp.spine.xx" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+                    <mxGeometry x="-53" y="170" width="150" height="135" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="导入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#CCCC00;" parent="5" vertex="1" connectable="0">
+                    <mxGeometry x="-0.1497" y="-2" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="cocos/spine/index.ts&lt;br&gt;导出命名空间spine" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+                    <mxGeometry x="-320" y="207.5" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" style="edgeStyle=none;html=1;" parent="1" source="6" target="7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="配置依赖" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#CCCC00;" parent="9" vertex="1" connectable="0">
+                    <mxGeometry x="-0.2523" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#CCCC00;" parent="1" source="6" target="16" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="导入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#CCCC00;" parent="21" vertex="1" connectable="0">
+                    <mxGeometry x="-0.1079" y="3" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="platforms/native/engine/jsb-spine-skeleton.js" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+                    <mxGeometry x="-910" y="462.5" width="220" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="platforms/native/modules.json&lt;br&gt;里面配置了前面的文件配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+                    <mxGeometry x="-523" y="320" width="180" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="10" target="12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="10" target="11" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="cocos/spine/lib/spine-core.js&lt;br&gt;native编译后/web编译后&lt;br&gt;spine核心代码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+                    <mxGeometry x="-113" y="612.5" width="220" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js&lt;br&gt;编辑器的执行的逻辑，里面包含spine的代码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+                    <mxGeometry x="77" y="822.5" width="420" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="resources\resources\3d\engine\bin\.cache\dev\preview\bundled\index.js&lt;br&gt;网页的预览逻辑，里面包含spine的代码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+                    <mxGeometry x="-413" y="822.5" width="420" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="platforms/native/engine/index.js" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+                    <mxGeometry x="-523" y="560" width="220" height="150" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="yN5TAn4ekywIcxe_J3do" name="自动同步修改文件夹">
+        <mxGraphModel dx="1074" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="27o_FbJqFWb4DTiU5mAS-0"/>
+                <mxCell id="27o_FbJqFWb4DTiU5mAS-1" parent="27o_FbJqFWb4DTiU5mAS-0"/>
+                <mxCell id="27o_FbJqFWb4DTiU5mAS-2" value="resources\resources\3d\engine\native" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="27o_FbJqFWb4DTiU5mAS-1" vertex="1">
+                    <mxGeometry x="230" y="100" width="320" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="27o_FbJqFWb4DTiU5mAS-3" value="resources\resources\3d\engine-native" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="27o_FbJqFWb4DTiU5mAS-1" vertex="1">
+                    <mxGeometry x="230" y="420" width="320" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="27o_FbJqFWb4DTiU5mAS-6" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="27o_FbJqFWb4DTiU5mAS-1" source="27o_FbJqFWb4DTiU5mAS-3" target="27o_FbJqFWb4DTiU5mAS-2" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="660" y="420" as="sourcePoint"/>
+                        <mxPoint x="710" y="370" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27o_FbJqFWb4DTiU5mAS-7" value="下面这个文件夹好像是windows特有的，跟快捷方式差不多，指向的就是上面的文件夹&lt;br&gt;而且源码里面并没有下面的文件夹" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFF00;" parent="27o_FbJqFWb4DTiU5mAS-6" vertex="1" connectable="0">
+                    <mxGeometry x="0.1048" y="1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="KeaE3oJXM7djCjhLQNgz" name="android执行流程">
+        <mxGraphModel dx="1901" dy="2993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-0"/>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-1" parent="QC9Grd0Uym0eRbtiB1ya-0"/>
+                <mxCell id="abtGLXTTSrMGGLsvU0HH-0" style="edgeStyle=none;html=1;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="QC9Grd0Uym0eRbtiB1ya-2" target="QC9Grd0Uym0eRbtiB1ya-3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-2" value="编译后的apk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="-700" y="-1950" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-49" style="edgeStyle=none;rounded=1;html=1;fontColor=#FFFFFF;" parent="QC9Grd0Uym0eRbtiB1ya-1" target="FyfQbTih72d1V3E1qyaq-45" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-413" y="-1909.9999999999998" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-3" value="运行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="-473" y="-1950" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-7" value="" style="edgeStyle=none;html=1;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="QC9Grd0Uym0eRbtiB1ya-4" target="QC9Grd0Uym0eRbtiB1ya-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-16" value="" style="edgeStyle=none;rounded=1;html=1;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="QC9Grd0Uym0eRbtiB1ya-4" target="QC9Grd0Uym0eRbtiB1ya-15" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-23" style="edgeStyle=none;rounded=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="QC9Grd0Uym0eRbtiB1ya-4" target="QC9Grd0Uym0eRbtiB1ya-17" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-24" style="edgeStyle=none;rounded=1;html=1;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="QC9Grd0Uym0eRbtiB1ya-4" target="QC9Grd0Uym0eRbtiB1ya-19" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-29" style="edgeStyle=none;rounded=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="QC9Grd0Uym0eRbtiB1ya-4" target="QC9Grd0Uym0eRbtiB1ya-28" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-4" value="main.js" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="1070" y="-20" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-14" value="" style="edgeStyle=none;rounded=1;html=1;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="QC9Grd0Uym0eRbtiB1ya-6" target="QC9Grd0Uym0eRbtiB1ya-13" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-30" style="edgeStyle=none;rounded=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;strokeColor=#FFFFFF;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="QC9Grd0Uym0eRbtiB1ya-6" target="QC9Grd0Uym0eRbtiB1ya-28" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-6" value="里面导入了jsb-adapter/jsb-engine.js" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="1270" y="550" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-11" style="edgeStyle=none;html=1;rounded=1;dashed=1;strokeColor=#CC00CC;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="QC9Grd0Uym0eRbtiB1ya-10" target="QC9Grd0Uym0eRbtiB1ya-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-10" value="resources\resources\3d\engine\platforms\native\engine\index.js导入了同文件夹底下所有的js。&lt;br&gt;和modules.json配置了里面的所有依赖&lt;br&gt;然后所有代码生成了jsb-adapter/jsb-engine.js&lt;br&gt;&lt;br&gt;&lt;div&gt;&quot;./jsb-assets-manager.js&quot;: 2,&lt;/div&gt;&lt;div&gt;&quot;./jsb-bridge-wrapper.js&quot;: 3,&lt;/div&gt;&lt;div&gt;&quot;./jsb-bridge.js&quot;: 4,&lt;/div&gt;&lt;div&gt;&quot;./jsb-dragonbones.js&quot;: 6,&lt;/div&gt;&lt;div&gt;&quot;./jsb-editbox.js&quot;: 7,&lt;/div&gt;&lt;div&gt;&quot;./jsb-editor-support.js&quot;: 8,&lt;/div&gt;&lt;div&gt;&quot;./jsb-game.js&quot;: 10,&lt;/div&gt;&lt;div&gt;&quot;./jsb-gfx.js&quot;: 11,&lt;/div&gt;&lt;div&gt;&quot;./jsb-loader.js&quot;: 12,&lt;/div&gt;&lt;div&gt;&quot;./jsb-physics.js&quot;: 13,&lt;/div&gt;&lt;div&gt;&quot;./jsb-reflection.js&quot;: 14,&lt;/div&gt;&lt;div&gt;&quot;./jsb-scene.js&quot;: 15,&lt;/div&gt;&lt;div&gt;&quot;./jsb-spine-skeleton.js&quot;: 16,&lt;/div&gt;&lt;div&gt;&quot;./jsb-videoplayer.js&quot;: 17,&lt;/div&gt;&lt;div&gt;&quot;./jsb-webview.js&quot;: 18&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;verticalAlign=middle;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="1430" y="50" width="340" height="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-33" style="edgeStyle=none;rounded=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontColor=#CC00CC;strokeColor=#FF33FF;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="QC9Grd0Uym0eRbtiB1ya-13" target="QC9Grd0Uym0eRbtiB1ya-31" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-13" value="这里在运行的时候，会重新拆解成生成的时候的文件列表进行导出，其实就是打包的时候，压缩到一个文件里面，然后执行的时候又拆开成多个文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="1265" y="740" width="130" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-20" style="edgeStyle=none;rounded=1;html=1;dashed=1;dashPattern=1 4;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="QC9Grd0Uym0eRbtiB1ya-15" target="QC9Grd0Uym0eRbtiB1ya-17" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-15" value="导入src/system.bundle.js" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="740" y="550" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-21" style="edgeStyle=none;rounded=1;html=1;dashed=1;dashPattern=1 4;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="QC9Grd0Uym0eRbtiB1ya-17" target="QC9Grd0Uym0eRbtiB1ya-19" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-27" value="" style="edgeStyle=none;rounded=1;html=1;strokeColor=#FFFFFF;dashed=1;dashPattern=1 4;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="QC9Grd0Uym0eRbtiB1ya-17" target="QC9Grd0Uym0eRbtiB1ya-26" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-17" value="读取src/import-map.json&lt;br&gt;文件内容，然后解析成json，然后把里面的内容进行导入成别名" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="900" y="530" width="140" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-25" style="edgeStyle=none;rounded=1;html=1;dashed=1;dashPattern=1 4;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="QC9Grd0Uym0eRbtiB1ya-19" target="QC9Grd0Uym0eRbtiB1ya-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-19" value="导入&lt;br&gt;src/application.js" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="1100" y="550" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-26" value="&quot;imports&quot;: { &quot;cc&quot;: &quot;./cocos-js/cc.js&quot; }" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="900" y="710" width="140" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-28" value="创建游戏窗口，创建canvas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="1450" y="550" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="QC9Grd0Uym0eRbtiB1ya-31" value="&lt;span&gt;&quot;./jsb-assets-manager.js&quot;: 2,&lt;/span&gt;&lt;br&gt;&lt;div&gt;&quot;./jsb-bridge-wrapper.js&quot;: 3,&lt;/div&gt;&lt;div&gt;&quot;./jsb-bridge.js&quot;: 4,&lt;/div&gt;&lt;div&gt;&quot;./jsb-dragonbones.js&quot;: 6,&lt;/div&gt;&lt;div&gt;&quot;./jsb-editbox.js&quot;: 7,&lt;/div&gt;&lt;div&gt;&quot;./jsb-editor-support.js&quot;: 8,&lt;/div&gt;&lt;div&gt;&quot;./jsb-game.js&quot;: 10,&lt;/div&gt;&lt;div&gt;&quot;./jsb-gfx.js&quot;: 11,&lt;/div&gt;&lt;div&gt;&quot;./jsb-loader.js&quot;: 12,&lt;/div&gt;&lt;div&gt;&quot;./jsb-physics.js&quot;: 13,&lt;/div&gt;&lt;div&gt;&quot;./jsb-reflection.js&quot;: 14,&lt;/div&gt;&lt;div&gt;&quot;./jsb-scene.js&quot;: 15,&lt;/div&gt;&lt;div&gt;&quot;./jsb-spine-skeleton.js&quot;: 16,&lt;/div&gt;&lt;div&gt;&quot;./jsb-videoplayer.js&quot;: 17,&lt;/div&gt;&lt;div&gt;&quot;./jsb-webview.js&quot;: 18&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;verticalAlign=middle;align=left;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="1620" y="640" width="170" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="oEUIEQ1TZdVOO3xghnBO-2" style="edgeStyle=none;html=1;fontColor=#CC00CC;dashed=1;strokeColor=#FF33FF;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="oEUIEQ1TZdVOO3xghnBO-1" target="QC9Grd0Uym0eRbtiB1ya-26" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="oEUIEQ1TZdVOO3xghnBO-1" value="resources\resources\3d\engine\cocos&lt;br&gt;文件夹底下的文件是功能文件夹，就是可选（可以裁剪文件夹），使用的情况下，会打包进入&lt;br&gt;cc.js" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;verticalAlign=middle;align=center;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="400" y="700" width="320" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-6" value="" style="edgeStyle=none;html=1;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="6MupcUQKdL9CTWlXP57A-0" target="FyfQbTih72d1V3E1qyaq-5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6MupcUQKdL9CTWlXP57A-0" value="src/com/cocos/game/AppActivity.java" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="-126" y="-1860" width="206" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6MupcUQKdL9CTWlXP57A-18" style="edgeStyle=none;html=1;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="6MupcUQKdL9CTWlXP57A-3" target="6MupcUQKdL9CTWlXP57A-5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-8" value="onCreateNative(this, getAssets(), getAbsolutePath(getObbDir()), Build.VERSION.SDK_INT);" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6MupcUQKdL9CTWlXP57A-18" vertex="1" connectable="0">
+                    <mxGeometry x="-0.2002" y="3" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-3" value="" style="edgeStyle=none;html=1;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="6MupcUQKdL9CTWlXP57A-3" target="FyfQbTih72d1V3E1qyaq-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-4" value="onLoadNativeLibraries()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FyfQbTih72d1V3E1qyaq-3" vertex="1" connectable="0">
+                    <mxGeometry x="0.1429" y="1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="G1oMuXKCPb9VsYSh2mdH-3" value="" style="edgeStyle=none;rounded=1;html=1;fontColor=#FFFFFF;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="6MupcUQKdL9CTWlXP57A-3" target="G1oMuXKCPb9VsYSh2mdH-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6MupcUQKdL9CTWlXP57A-3" value="父类onCreate()" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="-86" y="-1560" width="125" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6MupcUQKdL9CTWlXP57A-8" value="" style="edgeStyle=none;html=1;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="6MupcUQKdL9CTWlXP57A-5" target="6MupcUQKdL9CTWlXP57A-7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6MupcUQKdL9CTWlXP57A-5" value="父类onCreate里面调用了com/cocos/lib/CocosActivity.java的onCreateNative这个调用C++的方法，进入cpp逻辑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="654" y="-1560" width="175" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6MupcUQKdL9CTWlXP57A-10" value="" style="edgeStyle=none;html=1;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="6MupcUQKdL9CTWlXP57A-7" target="6MupcUQKdL9CTWlXP57A-9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6MupcUQKdL9CTWlXP57A-11" value="JNI_NATIVE_GLUE()-&amp;gt;start(0, nullptr);" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6MupcUQKdL9CTWlXP57A-10" vertex="1" connectable="0">
+                    <mxGeometry x="0.1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6MupcUQKdL9CTWlXP57A-7" value="cocos/platform/android/jni/JniCocosActivity.cpp的&lt;br&gt;Java_com_cocos_lib_CocosActivity_onCreateNative" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="594" y="-1421.74" width="300" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="6MupcUQKdL9CTWlXP57A-14" value="" style="edgeStyle=none;html=1;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="6MupcUQKdL9CTWlXP57A-9" target="6MupcUQKdL9CTWlXP57A-13" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6MupcUQKdL9CTWlXP57A-9" value="cocos/platform/java/jni/glue/JniNativeGlue.h" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="594" y="-1301.74" width="300" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="6MupcUQKdL9CTWlXP57A-16" value="" style="edgeStyle=none;html=1;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="6MupcUQKdL9CTWlXP57A-13" target="6MupcUQKdL9CTWlXP57A-15" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6MupcUQKdL9CTWlXP57A-17" value="Android平台" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6MupcUQKdL9CTWlXP57A-16" vertex="1" connectable="0">
+                    <mxGeometry x="0.1482" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6MupcUQKdL9CTWlXP57A-13" value="cocos/platform/BasePlatform.h的run()方法，对各种平台进行适配" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="594" y="-1200" width="300" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-12" value="" style="edgeStyle=none;html=1;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="6MupcUQKdL9CTWlXP57A-15" target="FyfQbTih72d1V3E1qyaq-11" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-13" value="UniversalPlatform::run(argc, argv);" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FyfQbTih72d1V3E1qyaq-12" vertex="1" connectable="0">
+                    <mxGeometry x="-0.2574" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6MupcUQKdL9CTWlXP57A-15" value="cocos/platform/android/AndroidPlatform.cpp的&lt;br&gt;int32_t AndroidPlatform::run(int argc, const char** argv)&lt;br&gt;方法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="1054" y="-1200" width="320" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="6MupcUQKdL9CTWlXP57A-19" value="cocos/application/CocosApplication.cpp的&lt;br&gt;int CocosApplication::init()方法，进行脚本引擎的初始化&lt;br&gt;并且调用jsb_register_all_modules();进行jsb的注册&lt;br&gt;调用se::ScriptEngine的开始。进行脚本引擎执行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="430" y="-258.26" width="300" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6MupcUQKdL9CTWlXP57A-21" style="edgeStyle=none;html=1;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="6MupcUQKdL9CTWlXP57A-20" target="6MupcUQKdL9CTWlXP57A-19" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6MupcUQKdL9CTWlXP57A-22" value="cc::CocosApplication::init();" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6MupcUQKdL9CTWlXP57A-21" vertex="1" connectable="0">
+                    <mxGeometry x="0.0872" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6MupcUQKdL9CTWlXP57A-20" value="cocos/application/BaseGame.cpp里面调用BaseGame::init()方法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="490" y="-440" width="180" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-10" value="" style="edgeStyle=none;html=1;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="FyfQbTih72d1V3E1qyaq-2" target="FyfQbTih72d1V3E1qyaq-9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-2" value="从资源中获取类库名coco，然后加载cocos类库onLoadNativeLibraries()" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="-426" y="-1550" width="165" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-7" style="edgeStyle=none;html=1;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="FyfQbTih72d1V3E1qyaq-5" target="6MupcUQKdL9CTWlXP57A-3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-5" value="因为AppActivity继承了CocosActivity&lt;br&gt;onCreate，并且调用了super(this)，先执行父类的onCreate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="-126" y="-1720" width="206" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-9" value="System.loadLibrary(libName);" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="-426" y="-1460" width="165" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-15" value="" style="edgeStyle=none;html=1;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="FyfQbTih72d1V3E1qyaq-11" target="FyfQbTih72d1V3E1qyaq-14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-16" value="cocos_main(argc, argv)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FyfQbTih72d1V3E1qyaq-15" vertex="1" connectable="0">
+                    <mxGeometry x="0.1139" y="1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-11" value="cocos/platform/UniversalPlatform.cpp&lt;br&gt;的&lt;br&gt;UniversalPlatform::run(int argc, const char** argv)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="1054" y="-1070" width="320" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-27" value="" style="edgeStyle=none;html=1;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="FyfQbTih72d1V3E1qyaq-14" target="FyfQbTih72d1V3E1qyaq-26" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-14" value="cocos/application/ApplicationManager.h&lt;br&gt;的&lt;br&gt;int cocos_main(int argc, const char** argv)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="1054" y="-940" width="320" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-31" value="" style="edgeStyle=none;html=1;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="FyfQbTih72d1V3E1qyaq-17" target="FyfQbTih72d1V3E1qyaq-30" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-35" value="&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-size: 12px&quot;&gt;Game::init()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FyfQbTih72d1V3E1qyaq-31" vertex="1" connectable="0">
+                    <mxGeometry x="0.1905" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-17" value="app-&amp;gt;init()" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="1059" y="-720" width="140" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-24" value="app-&amp;gt;run(argc, argv)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="1224" y="-720" width="150" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-28" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="FyfQbTih72d1V3E1qyaq-26" target="FyfQbTih72d1V3E1qyaq-17" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-29" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="FyfQbTih72d1V3E1qyaq-26" target="FyfQbTih72d1V3E1qyaq-24" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-26" value="&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-size: 11px&quot;&gt;CC_START_APPLICATION(className);&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="1074" y="-830" width="280" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-33" value="" style="edgeStyle=none;html=1;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="FyfQbTih72d1V3E1qyaq-30" target="FyfQbTih72d1V3E1qyaq-32" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-34" value="BaseGame::init()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FyfQbTih72d1V3E1qyaq-33" vertex="1" connectable="0">
+                    <mxGeometry x="0.2074" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-30" value="Game.cpp&lt;br&gt;的&lt;br&gt;int Game::init()" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="1059" y="-590" width="140" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-37" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="FyfQbTih72d1V3E1qyaq-32" target="FyfQbTih72d1V3E1qyaq-36" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-39" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="FyfQbTih72d1V3E1qyaq-32" target="FyfQbTih72d1V3E1qyaq-38" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-44" style="edgeStyle=none;rounded=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="FyfQbTih72d1V3E1qyaq-32" target="6MupcUQKdL9CTWlXP57A-20" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-32" value="cocos/application/BaseGame.cpp&lt;br&gt;的&lt;br&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;BaseGame::init()&lt;/span&gt;&lt;br&gt;这里调用&lt;br&gt;setXXTeaKey(_xxteaKey);&lt;br&gt;进行解密&lt;br&gt;然后执行脚本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="1033.25" y="-460" width="191.5" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-41" style="edgeStyle=none;html=1;fontColor=#000000;dashed=1;fillColor=#d80073;strokeColor=#A50040;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="FyfQbTih72d1V3E1qyaq-36" target="FyfQbTih72d1V3E1qyaq-38" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-36" value="runScript(&quot;jsb-adapter/jsb-builtin.js&quot;);" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="860" y="-290" width="140" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-43" style="edgeStyle=none;rounded=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="FyfQbTih72d1V3E1qyaq-38" target="QC9Grd0Uym0eRbtiB1ya-4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-38" value="runScript(&quot;main.js&quot;);" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="1060" y="-290" width="140" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-46" style="edgeStyle=none;rounded=1;html=1;fontColor=#000000;" parent="QC9Grd0Uym0eRbtiB1ya-1" source="FyfQbTih72d1V3E1qyaq-45" target="6MupcUQKdL9CTWlXP57A-0" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-48" value="onCreate(icicle);" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" parent="FyfQbTih72d1V3E1qyaq-46" vertex="1" connectable="0">
+                    <mxGeometry x="-0.1988" y="3" relative="1" as="geometry">
+                        <mxPoint x="-1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="FyfQbTih72d1V3E1qyaq-45" value="android系统底层根据&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-size: 11px&quot;&gt;AndroidManifest.xml配置执行配置的文件的&lt;/span&gt;&lt;br&gt;onCreate(icicle);" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="-473" y="-1860" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="G1oMuXKCPb9VsYSh2mdH-2" value="设置全局Activity对象&lt;br&gt;加载类库&lt;br&gt;设置输入方法" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" parent="QC9Grd0Uym0eRbtiB1ya-1" vertex="1">
+                    <mxGeometry x="-112.13" y="-1421.74" width="178.25" height="70" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
 </mxfile>
